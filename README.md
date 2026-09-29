@@ -51,6 +51,6 @@ Added nothing: ratio features, clipping colour-index outliers, and an XGBoost en
 
 ## Files
 
-- `stellar_class_prediction.ipynb` — full pipeline
+- Notebook.ipynb` — full pipeline
 - `requirements.txt` — dependencies
 - Data: download from the competition page
